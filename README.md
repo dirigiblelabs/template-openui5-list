@@ -1,4 +1,4 @@
-# Template - OpenUI5 Planning Calendar
+# Template - OpenUI5 List
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/template-openui5-list.svg)](https://github.com/dirigiblelabs/template-openui5-list/graphs/contributors)
